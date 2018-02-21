@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 2.8)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+project(stl)
+add_executable(${PROJECT_NAME}-1 "exercise1.cpp")
+add_executable(${PROJECT_NAME}-2 "exercise2.cpp")
+add_executable(${PROJECT_NAME}-3 "exercise3.cpp")
+add_executable(${PROJECT_NAME}-4 "exercise4.cpp")
+add_executable(${PROJECT_NAME}-5 "exercise5.cpp")
+add_executable(${PROJECT_NAME}-6 "exercise6.cpp")
+add_executable(${PROJECT_NAME}-7 "exercise7.cpp")
+add_executable(${PROJECT_NAME}-8 "exercise8.cpp")
+add_executable(${PROJECT_NAME}-9 "exercise9.cpp")
+add_executable(${PROJECT_NAME}-11 "exercise11.cpp")
